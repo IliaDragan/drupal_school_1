@@ -1,1 +1,3 @@
 Hello, this iis an initial document!
+
+Ok, here comes our second commit. On line 2.
